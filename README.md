@@ -1,8 +1,4 @@
 # FNC_CLOTHING
-
-# Item_Gallery
-**Welcome to my Custom Inventory Items repository!** 
-
 Here, you will find unique, handcrafted inventory items designed with black and white outlines, all in a clean and consistent 200 x 200 pixel PNG format.
 
 **About** 

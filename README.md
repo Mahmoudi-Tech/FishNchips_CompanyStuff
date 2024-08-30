@@ -27,8 +27,10 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
      └── README/  
 
      Free Fish & Chips Jingle – and clothing 
-Tribute to MoreoDesign : https://forum.cfx.re/t/free-mlo-fivem-fish-chip-restaurant/5262094
-& Lusty94's GTA MLO! : https://forum.cfx.re/t/free-qb-fish-n-chips-shop-job/5262656
+Tribute to MoreoDesign:
+https://forum.cfx.re/t/free-mlo-fivem-fish-chip-restaurant/5262094
+& Lusty94's GTA MLO!: 
+https://forum.cfx.re/t/free-qb-fish-n-chips-shop-job/5262656
 
 FREE DOWNLOAD PACKAGE HERE: 
 https://github.com/iplayer1337fivem/FNC_CLOTHING
@@ -46,39 +48,67 @@ Big thanks to MoreoDesign for the awesome MLO and Lusty94 for the job mod. Don't
 LYRICS:
 Verse 1:
 "Hey there, buddy, got a rumble in your belly?
+
 Don’t you worry, we’ll fix it nice and jelly!
+
 Come on down where the fish are all smiles,
+
 And the fries are golden, stacked in piles!"
+
+
 
 Chorus:
 "Fish and chips, get your fix,
+
 One big bite, it's pure bliss!
+
 Hook, line, sinker—oh, what a dish,
+
 Come on down, it’s the fish you wish!" 
+
+
 
 Verse 2:
 "Crunchy on the outside, tender in the middle,
+
 Dip it in the sauce, you’ll solve that riddle!
+
 From the fryer to your plate, it’s all hot,
+
 Our fish and chips hit the perfect spot!" 
+
+
 
 Chorus:
 "Fish and chips, get your fix,
+
 One big bite, it's pure bliss!
+
 Hook, line, sinker—oh, what a dish,
+
 Come on down, it’s the fish you wish!"
+
+
 
 Bridge:
 "Swim on over, don’t think twice,
+
 Our fishy friends taste oh-so-nice!
+
 Fries that fly, fish that’s fried,
+
 Welcome to the flavor ride!"
+
 
 Outro:
 "Fish and chips, get your fix,
+
 Where every bite is deliciously slick!
+
 Grab your crew, let’s make a wish,
+
 At the spot where we serve up the dish!"
+
              
 # _
 
